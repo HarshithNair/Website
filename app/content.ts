@@ -1,6 +1,6 @@
 // Edit this file to update the contents of the garage. Only verified or owner-supplied facts belong here.
 export const profile = {name:'Harshith Nair',email:'nairharshith.r@gmail.com',phone:'+91 9930923165',github:'https://github.com/HarshithNair',linkedin:'https://www.linkedin.com/in/harshithnair0307/'};
-export const resume = {available:false,url:'/resume/Harshith-Nair-Resume.pdf'};
+export const resume = {available:true,url:'/resume/Harshith-Nair-Resume.pdf'};
 export const current = {name:'KRU',description:'Find compatible people. Form a team. Turn a shared idea into something real.',flow:['Discover','Match','Workspace','Planner','Copilot','Build']};
 export const objects = [
 {id:'projects',name:'Laptop',label:'Things I’ve built',x:49,y:50,zone:1},

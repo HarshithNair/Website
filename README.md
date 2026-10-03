@@ -8,7 +8,7 @@ npm run dev -- --port 5187
 npm run build
 
 ## Update content
-Edit app/content.ts for profile, project order/featured status, titles, descriptions, thumbnails, tech, live URLs, achievements, experience, current work and coffee facts. Add the authentic résumé at public/resume/Harshith-Nair-Resume.pdf and set resume.available to true.
+Edit app/content.ts for profile, project order/featured status, titles, descriptions, thumbnails, tech, live URLs, achievements, experience, current work and coffee facts. The owner-provided résumé is installed at public/resume/Harshith-Nair-Resume.pdf and enabled. Replace that file to update it.
 
 GitHub metadata is fetched for manually curated, non-fork projects only. The API route caches successful responses for six hours, sends cache headers, and falls back gracefully. Browser metadata is cached for six hours. Curated stories remain available offline from GitHub.
 
