@@ -1,0 +1,1 @@
+Add the real PDF here as Harshith-Nair-Resume.pdf, then set resume.available = true in app/content.ts. No fabricated résumé is supplied. The viewer, view link and download action become available when enabled.
